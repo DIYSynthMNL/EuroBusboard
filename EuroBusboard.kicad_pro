@@ -338,6 +338,14 @@
       {
         "netclass": "GND",
         "pattern": "/GND"
+      },
+      {
+        "netclass": "+12V",
+        "pattern": "/+12V_IN"
+      },
+      {
+        "netclass": "-12V",
+        "pattern": "/-12V_IN"
       }
     ]
   },
