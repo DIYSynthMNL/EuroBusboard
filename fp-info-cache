@@ -1,4 +1,4 @@
-22579390222030834
+22581096409450339
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53171,6 +53171,13 @@ Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W len
 0
 2
 2
+DIYSynthMNL
+TerminalBlock_MetzConnect_Type101_RT01603HBWC_1x03_P5.08mm_Horizontal
+terminal block Metz Connect Type101_RT01603HBWC, 3 pins, pitch 5.08mm, size 15.2x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311011_RT016xxHBWC_OFF-022771S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type101_RT01603HBWC pitch 5.08mm size 15.2x8mm^2 drill 1.3mm pad 2.5mm
+0
+3
+3
 DIYSynthMNL
 ToggleSwitch_MTS-101_SPST
 

@@ -1,0 +1,5 @@
+Default	True	2.0	3
++12V	True	2.0	3
+-12V	True	2.0	3
+GND	True	2.0	3
+False	True	False
