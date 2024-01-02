@@ -500,23 +500,59 @@
     "netclass_patterns": [
       {
         "netclass": "+12V",
-        "pattern": "/+12V"
+        "pattern": "/+12V*"
       },
       {
         "netclass": "-12V",
-        "pattern": "/-12V"
+        "pattern": "/-12V*"
       },
       {
         "netclass": "GND",
-        "pattern": "/GND"
+        "pattern": "/GND*"
       },
       {
         "netclass": "+12V",
-        "pattern": "/+12V_IN"
+        "pattern": "/+12V_IN*"
       },
       {
         "netclass": "-12V",
-        "pattern": "/-12V_IN"
+        "pattern": "/-12V_IN*"
+      },
+      {
+        "netclass": "+12V",
+        "pattern": "/EuroBusboard8_JST/+12*"
+      },
+      {
+        "netclass": "GND",
+        "pattern": "/EuroBusboard8_JST/GND*"
+      },
+      {
+        "netclass": "+12V",
+        "pattern": ""
+      },
+      {
+        "netclass": "-12V",
+        "pattern": "/EuroBusboard8_JST/-12V*"
+      },
+      {
+        "netclass": "+12V",
+        "pattern": "/EuroBusboard8_IDC/+12V*"
+      },
+      {
+        "netclass": "-12V",
+        "pattern": "/EuroBusboard8_IDC/-12V*"
+      },
+      {
+        "netclass": "GND",
+        "pattern": "/EuroBusboard8_IDC/GND*"
+      },
+      {
+        "netclass": "+12V",
+        "pattern": "/EuroBusboard8_JST/+12*"
+      },
+      {
+        "netclass": "+12V",
+        "pattern": "/EuroBusboard8_JST/-12*"
       }
     ]
   },
@@ -569,6 +605,14 @@
     [
       "9225e1c5-5b65-40f1-85db-81016ace963e",
       ""
+    ],
+    [
+      "47689553-71da-4633-ab33-61a9e898ff43",
+      "EuroBusboard8_IDC"
+    ],
+    [
+      "e4dd137a-6c28-4591-a10a-16d4fd64ff1a",
+      "EuroBusboard8_JST"
     ]
   ],
   "text_variables": {}
