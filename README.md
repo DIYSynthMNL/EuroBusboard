@@ -1,5 +1,7 @@
 # EuroBusboard
 
+![EuroBusboard installed in case](photos/front.jpg)
+
 A Eurorack bus board with 8 module connectors for distributing ±12V, +5V, gate, and CV signals. Multiple connector variants are available in the project.
 
 ## Variants
@@ -42,5 +44,5 @@ What's ready for builders today, and what's still on the TODO list:
 - [ ] PCB layout — in progress — multiple variants in `kicad/` (IDC, JST, IDC+JST), no rev marker yet
 - [ ] Gerber files for fabrication — none yet
 - [ ] BOM — bus boards are simple; parts list lives in the schematic
-- [ ] Photos of an assembled board — none yet
+- [x] Photos of an assembled board — see [photos/](photos/)
 - [x] License — [LICENSE](LICENSE)
