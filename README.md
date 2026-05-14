@@ -36,11 +36,11 @@ CV     +12V  +12V  ...
 
 ## Build status
 
-What's available for builders, and what's still on the TODO list:
+What's ready for builders today, and what's still on the TODO list:
 
-- [x] Schematic PDF (Rev 0.1) — [EuroBusboard-Schematic-rev0.1.pdf](Schematic%20PDFs/EuroBusboard-Schematic-rev0.1.pdf)
-- [x] KiCad source files — [kicad/](kicad/)
-- [ ] Gerber files for PCB fabrication — *not yet exported — generate from kicad/ before sending to a fab*
-- [ ] Bill of materials (BOM) — *bus boards are simple — see schematic for the parts list*
-- [ ] Photos of an assembled board — *not yet*
+- [x] Schematic — Rev 0.1 ([EuroBusboard-Schematic-rev0.1.pdf](Schematic%20PDFs/EuroBusboard-Schematic-rev0.1.pdf))
+- [ ] PCB layout — in progress — multiple variants in `kicad/` (IDC, JST, IDC+JST), no rev marker yet
+- [ ] Gerber files for fabrication — none yet
+- [ ] BOM — bus boards are simple; parts list lives in the schematic
+- [ ] Photos of an assembled board — none yet
 - [x] License — [LICENSE](LICENSE)
